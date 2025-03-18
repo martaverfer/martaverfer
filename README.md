@@ -1,7 +1,10 @@
-# Hi there, I'm **Marta Vera**! 👋👩‍💻
+# Hi there, I'm **Marta**! 👋👩‍💻🔬
 
-Welcome to My GitHub Profile! I'm a **Data Science & Machine Learning** enthusiast currently learning and building projects at Ironhack. 
-In addition, I have experience working as a **Backend Software Developer**. I'm always excited about solving real-world problems using data-driven solutions and cutting-edge technologies.
+Welcome to My GitHub Profile! I'm a **Data Science & Machine Learning** enthusiast currently learning and building projects at Ironhack. With a solid background in **Biosciences**, I bring a unique perspective to data-driven solutions, particularly in areas like healthcare, life sciences, and bioinformatics.
+
+In addition, I have experience working as a **Backend Software Developer**, where I gained strong technical skills in building scalable applications and managing databases.
+
+I’m always excited about leveraging data and cutting-edge technologies to solve real-world problems. My combination of biosciences knowledge and technical expertise in software development allows me to approach data science challenges from a multidisciplinary perspective.
 
 ## 🚀 About Me
 - 🔭 I’m currently learning Data Science and Machine Learning through the Ironhack Bootcamp.
