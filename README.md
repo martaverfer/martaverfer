@@ -8,10 +8,11 @@ In addition, I have experience working as a **Backend Software Developer**. I'm 
 - 🌱 I’m continuously improving my skills in Python, Pandas and SQL.
 - 💻 I have experience in Backend Development, particularly with Java and Databases.
 - 🤖 I’m passionate about applying Machine Learning to real-world problems and exploring new algorithms and techniques.
+- ⚡ Fun fact: When I’m not coding, you can find me exploring nature, scuba diving, or practicing aerial silks! 🌿🤿🎪🤸
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: Python, Java, SQL
-- Data Science & ML: Pandas, NumPy, Matplotlib, Seaborn, Tableau
+- Data Science & ML: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Scikit-learn
 - Databases: MySQL
 - Version Control: Git, GitHub, GitLab
 - Cloud & DevOps: AWS, Docker, Jenkins
