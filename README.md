@@ -4,7 +4,7 @@ Welcome to My GitHub Profile! I'm a **Data Science & Machine Learning** enthusia
 
 In addition, I have experience working as a **Backend Software Developer**, where I gained strong technical skills in building scalable applications and managing databases.
 
-I’m always excited about leveraging data and cutting-edge technologies to solve real-world problems. My combination of biosciences knowledge and technical expertise in software development allows me to approach data science challenges from a multidisciplinary perspective.
+The coolest part about my approach is that I’m not just thinking about data in isolation. By combining my biosciences knowledge with software development expertise, I can take a well-rounded approach to data science problems, making a real-world impact—whether it’s improving healthcare, advancing research, or creating smarter systems.
 
 ## 🚀 About Me
 - 🔭 I’m currently learning Data Science and Machine Learning through the Ironhack Bootcamp.
