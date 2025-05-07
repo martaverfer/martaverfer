@@ -14,13 +14,13 @@ The coolest part about my approach is that I’m not just thinking about data in
 - ⚡ Fun fact: When I’m not coding, you can find me exploring nature, scuba diving, or practicing aerial silks! 🌿🤿🎪🤸
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: Python, Java, SQL
-- Data Science & ML: Pandas, NumPy, Scikit-learn, EDA, Feature Engineering, Model Evaluation
-- Visualization: Matplotlib, Seaborn, Plotly, Tableau
-- Deep Learning & NLP: TensorFlow, Keras, NLTK, SpaCy, TextBlob
-- Generative AI & LLMs: LangChain, HuggingFace Transformers, ChromaDB, Prompt Engineering
-- Version Control: Git, GitHub, GitLab
-- Cloud & DevOps: AWS, Docker, Jenkins
+- **Programming Languages**: Python, Java, SQL
+- **Data Science & ML**: Pandas, NumPy, Scikit-learn, EDA, Feature Engineering, Model Evaluation
+- **Visualization**: Matplotlib, Seaborn, Plotly, Tableau
+- **Deep Learning & NLP**: TensorFlow, Keras, NLTK, SpaCy, TextBlob
+- **Generative AI & LLMs**: LangChain, HuggingFace Transformers, ChromaDB, Prompt Engineering
+- **Version Control**: Git, GitHub, GitLab
+- **Cloud & DevOps**: AWS, Docker, Jenkins
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martaverfer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
