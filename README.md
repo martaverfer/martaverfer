@@ -1,6 +1,6 @@
 # Hi there, I'm **Marta**! 👋👩‍💻🔬
 
-Welcome to My GitHub Profile! I'm a **Data Science & Machine Learning** enthusiast currently learning and building projects at Ironhack. With a solid background in **Biosciences**, I bring a unique perspective to data-driven solutions, particularly in areas like healthcare, life sciences, and bioinformatics.
+Welcome to My GitHub Profile! I'm a **Data Science & Machine Learning** enthusiast who recently completed the Ironhack Bootcamp and is now building personal projects that apply advanced ML, NLP, and generative AI techniques. With a solid background in **Biosciences**, I bring a unique perspective to data-driven solutions, particularly in areas like healthcare, life sciences, and bioinformatics.
 
 In addition, I have experience working as a **Backend Software Developer**, where I gained strong technical skills in building scalable applications and managing databases.
 
@@ -9,19 +9,18 @@ The coolest part about my approach is that I’m not just thinking about data in
 ## 🚀 About Me
 - 🔭 I’m currently learning Data Science and Machine Learning through the Ironhack Bootcamp.
 - 🌱 I’m continuously improving my skills in Python, Pandas and SQL.
-- 💻 I have experience in Backend Development, particularly with Java and Databases.
-- 🤖 I’m passionate about applying Machine Learning to real-world problems and exploring new algorithms and techniques.
+- 💻 3+ years of experience in Backend Development, particularly with Java and Databases.
+- 🧠 Passionate about machine learning, NLP, and generative AI using tools like LangChain and HuggingFace.
 - ⚡ Fun fact: When I’m not coding, you can find me exploring nature, scuba diving, or practicing aerial silks! 🌿🤿🎪🤸
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: Python, Java, SQL
-- Data Science & ML: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Scikit-learn
-- Databases: MySQL
+- Data Science & ML: Pandas, NumPy, Scikit-learn, EDA, Feature Engineering, Model Evaluation
+- Visualization: Matplotlib, Seaborn, Plotly, Tableau
+- Deep Learning & NLP: TensorFlow, Keras, NLTK, SpaCy, TextBlob
+- Generative AI & LLMs: LangChain, HuggingFace Transformers, ChromaDB, Prompt Engineering
 - Version Control: Git, GitHub, GitLab
 - Cloud & DevOps: AWS, Docker, Jenkins
-
-## 🌱 I’m currently learning
-- Advanced **Machine Learning** techniques
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martaverfer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
