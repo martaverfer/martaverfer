@@ -26,8 +26,8 @@ The coolest part about my approach is that I’m not just thinking about data in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martaverfer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 How to reach me:
-- Email: martaverfer8@gmail.com
-- LinkedIn: https://www.linkedin.com/in/marta-vera-fern%C3%A1ndez-477742180/ 
+- Email: [martaverfer8@gmail.com](mailto:martaverfer8@gmail.com)  
+- LinkedIn: [marta-vera](https://www.linkedin.com/in/marta-vera/)
 
 Feel free to check out my repositories and contribute! ✨
 
